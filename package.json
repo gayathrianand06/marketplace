@@ -1,5 +1,5 @@
 {
-  "name": "@0xcert/ethereum-erc20",
+  "name": "@gayathrianand06/marketplace",
   "version": "1.2.1",
   "description": "Fungible token standard implementation for the Ethereum blockchain.",
   "main": "truffle.js",
@@ -20,16 +20,13 @@
     "prepublish": "npm run compile",
     "test": "npm run clean && truffle test"
   },
-  "author": "0xcert",
+  "author": "gayathrianand06",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xcert/ethereum-erc20.git"
+    "url": "git+https://github.com/gayathrianand06/marketplace.git"
   },
-  "bugs": {
-    "url": "https://github.com/0xcert/etheethereum-erc20reum/issues"
-  },
-  "homepage": "https://github.com/0xcert/ethereum-erc20#readme",
+  "homepage": "https://github.com/gayathrianand06/marketplace#readme",
   "keywords": [
     "ethereum",
     "blockchain",
@@ -53,6 +50,6 @@
     "truffle-flattener": "^1.2.5"
   },
   "dependencies": {
-    "@0xcert/ethereum-utils": "^1.1.0"
+    "@gayathrianand06/marketplace": "^1.1.0"
   }
 }
